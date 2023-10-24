@@ -1,2 +1,2 @@
-# teaching_c
-Class for C programming
+# teaching
+Class for programming
