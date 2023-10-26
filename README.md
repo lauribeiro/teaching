@@ -1,2 +1,2 @@
 # teaching
-Class for programming
+Class for basic programming
