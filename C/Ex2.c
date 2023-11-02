@@ -25,7 +25,7 @@ int main() {
     printf("Valor de x1 = %f\n", x_linha);
     printf("Valor de x2 = %f\n", x_duas_linhas);
     
-    // ou mais "robusto":
+    // ou ainda:
     printf("\n");
     printf("x\'\t= %3.f\n", x_linha);
     printf("x\'\'\t= %3.f\n", x_duas_linhas);
